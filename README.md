@@ -35,4 +35,4 @@ Each case study's analysis is typically run independently in both languages and 
 
 ## About
 
-Maintained by Anantha Krishna as part of ongoing preparation and practice in applied inferential statistics.
+Maintained by Ankitha as part of ongoing preparation and practice in applied inferential statistics.
